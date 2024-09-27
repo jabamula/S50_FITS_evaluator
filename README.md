@@ -12,3 +12,6 @@ Figure 2: **Image center point wanderings** from the start of the observation. S
 
 The app generates the **object_coordinates.csv** file to the root of the application.
 <img width="1174" alt="object_coordinates csv" src="https://github.com/user-attachments/assets/428c8fe7-528e-409f-b9f1-e5a7a3a71d03">
+
+# Running the program
+Issue the normal **python3 app.py** command in the terminal
